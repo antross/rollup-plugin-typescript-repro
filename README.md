@@ -29,4 +29,4 @@ function two() {
 export { two };
 ```
 
-Note: Removing `rollup-plugin-typescript2` from the plugins array eliminates the repro.
+Note: Removing `@rollup/plugin-typescript` from the plugins array eliminates the repro.
